@@ -1,3 +1,5 @@
+A weather app to learn nextJS and Typescript along with TailwindCSS, will also, build an API to learn backend, trying to use midjourney generated desgn as reference
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
