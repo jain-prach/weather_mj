@@ -8,7 +8,15 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head />
-      <body>{children}</body>
+      <body>
+        {children}
+        {/* <Search />
+        <Current_weather/>
+        <Forecast />
+        <Map />
+        <Save_Locations />
+        <Sun_Moon /> */}
+      </body>
     </html>
   )
 }
